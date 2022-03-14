@@ -1,4 +1,4 @@
-Project name: "University managment system".
+Project name: "University management system".
 
 Entities are main classes with variables that we will store and retrieve from database. In our project we have 4 entities: Student, Department, Gpa, and University.
 
